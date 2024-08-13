@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasjoshi23&label=Profile%20views&color=0e75b6&style=flat" alt="tejasjoshi23" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I do full stack development using **MERN** stack.
 
 - 📫 How to reach me **tejasj1823@gmail.com**
 
